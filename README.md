@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akiftnyr
+- 👀 I’m interested in theatre, basketball, music and also PARTYZZ!!!
+- I'm currently learning Java software.
+- I am a freshman at Bilkent University
+- 📫 You can reach me through instagram @akiftnyr 
