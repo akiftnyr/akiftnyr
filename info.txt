@@ -1,4 +1,5 @@
 Akif Erdem Tanyeri - 22003537 - https://github.com/akiftnyr
+My favorite video game => League of Legends
 
 🐙  Welcome to the GitKraken CLI!
 cd into a directory being tracked by Git and type gk graph to see what GitKraken can do
