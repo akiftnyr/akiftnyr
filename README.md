@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akiftnyr
-- 👀 I’m interested in theatre, basketball, music and also PARTYZZ!!!
-- I'm currently learning Java software.
-- I am a freshman at Bilkent University
-- 📫 You can reach me through instagram @akiftnyr 
+- 👀 I’m interested in theatre, sports, and music.
+- I am currently learning Java and C++ software languages.
+- I am a sophomore at Bilkent University.
+- 📫 You can reach me through instagram @akiftnyr. 
